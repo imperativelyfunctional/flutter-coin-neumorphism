@@ -1,7 +1,7 @@
 import 'package:cryto/coin/coin_list_tab.dart';
 import 'package:cryto/coin/favorite_tab.dart';
 import 'package:cryto/coin/settings_tab.dart';
-import 'package:flutter_neumorphic/flutter_neumorphic.dart';
+import 'package:flutter_neumorphic_plus/flutter_neumorphic.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
 import 'package:google_fonts/google_fonts.dart';
